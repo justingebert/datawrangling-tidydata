@@ -7,6 +7,7 @@ This repository contains a juypter notebook that walks through the basics of dat
 ---
 
 Run locally:
+
 Prerequisites: 
 - Python 3.8+, jupyter notebook
 
