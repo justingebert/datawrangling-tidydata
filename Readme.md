@@ -2,7 +2,7 @@
 
 This repository contains a juypter notebook that walks through the basics of data wrangling and tidy data.
 
-[Open in Colab](https://colab.research.google.com/github/justingebert/datawrangling-tidydata/blob/main/solution.ipynb) **(Recommended)**
+[Open in Colab](https://colab.research.google.com/github/justingebert/datawrangling-tidydata/blob/main/tutorial.ipynb) **(Recommended)**
 
 ---
 
